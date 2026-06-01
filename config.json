@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentuerify",
+        "uuid": 24743446,
+        "checksum": "w56zmh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
